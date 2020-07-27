@@ -4,6 +4,7 @@ fetch('books.txt')
         window.books.querySelector('ul').innerHTML = data
             .trim()
             .split('\n')
+            .filter(Boolean)
             .map(item => {
                 const [, title, url] = item.match(/(.*)\|(.*)/);
 
@@ -18,6 +19,7 @@ fetch('articles.txt')
         window.articles.querySelector('ul').innerHTML = data
             .trim()
             .split('\n')
+            .filter(Boolean)
             .map(item => {
                 const [, title, url] = item.match(/(.*)\|(.*)/);
 
@@ -32,6 +34,7 @@ fetch('videos.txt')
         window.videos.querySelector('ul').innerHTML = data
             .trim()
             .split('\n')
+            .filter(Boolean)
             .map(item => {
                 const [, title, url] = item.match(/(.*)\|(.*)/);
 
