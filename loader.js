@@ -1,4 +1,4 @@
-fetch('books.md')
+fetch('books.txt')
     .then(response => response.text())
     .then(data => {
         window.books.querySelector('ul').innerHTML = data
@@ -12,7 +12,7 @@ fetch('books.md')
             .join('')
     });
 
-fetch('articles.md')
+fetch('articles.txt')
     .then(response => response.text())
     .then(data => {
         window.articles.querySelector('ul').innerHTML = data
@@ -26,7 +26,7 @@ fetch('articles.md')
             .join('')
     });
 
-fetch('videos.md')
+fetch('videos.txt')
     .then(response => response.text())
     .then(data => {
         window.videos.querySelector('ul').innerHTML = data
