@@ -1,2 +1,2 @@
-Teamlead Roadmap, модель базовых компетенций тимлида, составленная на основе опыта и ожиданий реальных компаний | https://github.com/tlbootcamp/tlroadmap
+Teamlead Roadmap | https://github.com/tlbootcamp/tlroadmap
 
