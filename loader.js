@@ -42,3 +42,33 @@ fetch('videos.txt')
             })
             .join('')
     });
+
+fetch('backend.txt')
+    .then(response => response.text())
+    .then(data => {
+        window.backend.querySelector('ul').innerHTML = data
+            .trim()
+            .split('\n')
+            .filter(Boolean)
+            .map(item => {
+                const [, title, url] = item.match(/(.*)\|(.*)/);
+
+                return `<li><a href="${url}">${title}</a></li>`;
+            })
+            .join('')
+    });
+
+fetch('devops.txt')
+    .then(response => response.text())
+    .then(data => {
+        window.devops.querySelector('ul').innerHTML = data
+            .trim()
+            .split('\n')
+            .filter(Boolean)
+            .map(item => {
+                const [, title, url] = item.match(/(.*)\|(.*)/);
+
+                return `<li><a href="${url}">${title}</a></li>`;
+            })
+            .join('')
+    });
