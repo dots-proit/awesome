@@ -7,3 +7,5 @@ Michael Jackson - Never Write Another HoC | https://www.youtube.com/watch?v=BcVA
 What the heck is the event loop anyway? Philip Roberts | https://www.youtube.com/watch?v=8aGhZQkoFbQ
 What the... JavaScript? | https://www.youtube.com/watch?v=2pL28CcEijU
 Get Kata - Kevlin Henney | https://www.youtube.com/watch?v=_M4o0ExLQCs
+DevOps Fest 2019 | https://www.youtube.com/playlist?list=PLuOBDBq7MW70UL_4Fsf0Pxer6LzeYvxPN
+
