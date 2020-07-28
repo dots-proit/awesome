@@ -1,3 +1,9 @@
-Телеграм канал - Библиотека книг и статей по теме DevOps и SRE | https://t.me/devopslibrary
+Телеграм канал - DevOps&SRE Library | https://t.me/devopslibrary
 
 Телеграм канал - Записки админа | https://t.me/SysadminNotes
+
+Телеграм канал - Админим с Буквой | https://t.me/bykvaadm
+
+Телеграм канал - Пятничный деплой | https://t.me/count0_digest
+
+
