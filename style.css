@@ -83,7 +83,8 @@ li {
     font-size: 8rem;
 }
 
-#navigation {
+#navigation,
+#social {
     display: flex;
     flex-direction: row;
     align-items: center;
