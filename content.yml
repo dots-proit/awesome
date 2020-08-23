@@ -19,7 +19,7 @@ cards:
     tags:
 
 
-  - title: \"Uncle\" Bob Martin
+  - title: Uncle Bob Martin
     link: https://www.youtube.com/watch?v=QHnLmvDxGTY
     description:
     thread: video
@@ -109,7 +109,7 @@ cards:
     thread: devops
     tags:
 
-  - title: William Byrd on \"The Most Beautiful Program Ever Written\"
+  - title: William Byrd on The Most Beautiful Program Ever Written
     link: https://www.youtube.com/watch?v=OyfBQmvr2Hc
     description:
     thread: video
