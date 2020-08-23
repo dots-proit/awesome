@@ -1,24 +1,15 @@
 const path = require('path');
 const html = require('html-webpack-plugin');
-const copy = require('copy-webpack-plugin');
 
 module.exports = {
     entry: './src/index.js',
     output: {
       filename: 'index.js',
-      path: path.resolve(__dirname, 'docs')
+      path: path.resolve(__dirname)
     },
     plugins: [
         new html({
             template: './src/index.html'
-        }),
-        new copy({
-            patterns: [
-                {
-                    from: 'public',
-                    to: '.'
-                }
-            ],
         })
     ],
     module: {
@@ -38,13 +29,6 @@ module.exports = {
     },
     devServer: {
         clientLogLevel: 'warning',
-        historyApiFallback: {
-            rewrites: [
-                {
-                    from: /.*/, to: '/'
-                },
-            ],
-        },
         contentBase: false,
         compress: true,
         host: '0.0.0.0',
