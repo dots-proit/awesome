@@ -5,7 +5,7 @@
   "main": "loader.js",
   "scripts": {
     "start": "webpack-dev-server --watch --inline --progress --hot --config webpack.config.js",
-    "build": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js --mode production"
   },
   "repository": {
     "type": "git",

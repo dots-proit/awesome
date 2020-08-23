@@ -1,0 +1,79 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    color: #232323;
+    background: #fdfdfd;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 50vh;
+}
+
+a {
+    text-decoration: none;
+    color: #232323;
+}
+
+.thread-start {
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 1rem;
+    font-size: 1rem;
+    width: 768px;
+    color: #9e9e9e;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    width: 768px;
+    margin: 1rem;
+}
+
+.card > .title {
+    font-size: 1.25rem;
+}
+
+.card > .description {
+    margin: 1rem 0;
+}
+
+.card > .tags {
+    display: flex;
+    flex-direction: row;
+}
+
+.card > .tags > .tag {
+    font-size: 0.75rem;
+    padding: 0 0.5rem;
+    color: #9e9e9e;
+}
+
+#intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 8rem;
+}
+
+#navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+}
+
+#navigation > a {
+    margin: 0 2rem;
+}
