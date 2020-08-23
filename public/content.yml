@@ -1,0 +1,120 @@
+threads:
+  - books
+  - articles
+  - videos
+  - backend
+  - devops
+
+cards:
+  - title: Teamlead Roadmap
+    link: https://github.com/tlbootcamp/tlroadmap
+    description:
+    thread: articles
+    tags:
+
+  - title: ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers
+    link: https://www.youtube.com/watch?v=ZsHMHukIlJY
+    description:
+    thread: video
+    tags:
+
+
+  - title: \"Uncle\" Bob Martin
+    link: https://www.youtube.com/watch?v=QHnLmvDxGTY
+    description:
+    thread: video
+    tags:
+
+  - title: Design Patterns in Object Oriented Programming
+    link: https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
+    description:
+    thread: video
+    tags:
+
+  - title: What is a Monad? - Computerphile
+    link: https://www.youtube.com/watch?v=t1e8gqXLbsU
+    description:
+    thread: video
+    tags:
+
+  - title: Michael Jackson - Never Write Another HoC
+    link: https://www.youtube.com/watch?v=BcVAq3YFiuc
+    description:
+    thread: video
+    tags:
+
+  - title: What the heck is the event loop anyway? Philip Roberts
+    link: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+    description:
+    thread: video
+    tags:
+
+  - title: What the... JavaScript?
+    link: https://www.youtube.com/watch?v=2pL28CcEijU
+    description:
+    thread: video
+    tags:
+
+  - title: Get Kata - Kevlin Henney
+    link: https://www.youtube.com/watch?v=_M4o0ExLQCs
+    description:
+    thread: video
+    tags:
+
+  - title: DevOps Fest 2019
+    link: https://www.youtube.com/playlist?list=PLuOBDBq7MW70UL_4Fsf0Pxer6LzeYvxPN
+    description:
+    thread: video
+    tags:
+
+  - title: postwoman
+    link: https://postwoman.io/?method=GET&url=https://localhost:8080&path=/get
+    description:
+    thread: tools
+    tags:
+
+  - title: Insomnia
+    link: https://insomnia.rest
+    description:
+    thread: tools
+    tags:
+
+  - title: PAW
+    link: https://paw.cloud
+    description:
+    thread: tools
+    tags:
+
+  - title: DevOps&SRE Library
+    link: https://t.me/devopslibrary
+    description: Телеграм канал
+    thread: devops
+    tags:
+
+  - title: Записки админа
+    link: https://t.me/SysadminNotes
+    description: Телеграм канал
+    thread: devops
+    tags:
+
+  - title: Админим с Буквой
+    link: https://t.me/bykvaadm
+    description: Телеграм канал
+    thread: devops
+    tags:
+
+  - title: Пятничный деплой
+    link: https://t.me/count0_digest
+    description: Телеграм канал
+    thread: devops
+    tags:
+
+  - title: William Byrd on \"The Most Beautiful Program Ever Written\"
+    link: https://www.youtube.com/watch?v=OyfBQmvr2Hc
+    description:
+    thread: video
+    tags:
+      - functional programming
+      - lisp
+      - fundimentals
+      - cs

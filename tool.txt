@@ -1,6 +1,0 @@
-postwoman | https://postwoman.io/?method=GET&url=https://localhost:8080&path=/get
-
-Insomnia | https://insomnia.rest
-
-PAW | https://paw.cloud
-
