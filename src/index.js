@@ -12,7 +12,7 @@ app.append(...[
     list
 ].map(item => item.element));
 
-fetch('/content.yml')
+fetch('content.yml')
     .then(response => response.text())
     .then(data => {
 
