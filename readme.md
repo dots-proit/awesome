@@ -1,1 +1,1 @@
-# [visit](https://dots-proit.github.io/awesome/)
+# [visit](https://dots-proitr.github.io/awesome/)
