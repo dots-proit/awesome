@@ -118,3 +118,12 @@ cards:
       - lisp
       - fundimentals
       - cs
+
+  - title: Kafka Tutorials
+    link: https://kafka-tutorials.confluent.io
+    description:
+    thread: backend
+    tags: 
+      - kafka
+      - backend
+      - tutorial
