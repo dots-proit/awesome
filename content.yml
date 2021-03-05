@@ -3,7 +3,7 @@ threads:
   - articles
   - videos
   - backend
-  - devops
+  - ops
 
 cards:
   - title: Teamlead Roadmap
@@ -88,25 +88,25 @@ cards:
   - title: DevOps&SRE Library
     link: https://t.me/devopslibrary
     description: Телеграм канал
-    thread: devops
+    thread: ops
     tags:
 
   - title: Записки админа
     link: https://t.me/SysadminNotes
     description: Телеграм канал
-    thread: devops
+    thread: ops
     tags:
 
   - title: Админим с Буквой
     link: https://t.me/bykvaadm
     description: Телеграм канал
-    thread: devops
+    thread: ops
     tags:
 
   - title: Пятничный деплой
     link: https://t.me/count0_digest
     description: Телеграм канал
-    thread: devops
+    thread: ops
     tags:
 
   - title: William Byrd on The Most Beautiful Program Ever Written
