@@ -136,6 +136,7 @@ cards:
       - video
   - title: PostgreSQL DBA
     links: https://roadmap.sh/postgresql-dba
+    description:
     thread: ops
     tags: 
       - DBA
