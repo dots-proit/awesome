@@ -126,3 +126,12 @@ cards:
     tags: 
       - kafka
       - tutorial
+      
+  - title: Андрей Паньгин — Память Java процесса по полочкам
+    link: https://youtu.be/kKigibHrV5I
+    description:
+    thread: backend
+    tags: 
+      - java
+      - video
+    
