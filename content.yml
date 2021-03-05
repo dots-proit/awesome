@@ -125,5 +125,4 @@ cards:
     thread: backend
     tags: 
       - kafka
-      - backend
       - tutorial
